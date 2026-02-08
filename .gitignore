@@ -1,0 +1,4 @@
+.DS_Store
+
+# Local assistant/chat history
+.aider.chat.history.md
