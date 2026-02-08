@@ -15,11 +15,13 @@ Thanks for your interest in improving this project.
 - Update docs (`README.md` / `README.zh-CN.md`) when needed
 - Ensure no secrets are committed
 - Describe testing or validation steps
+- Run `make quality` and include its result
 
 ## Development Notes
 
 - Main artifact: `CLIProxyAPI/static/management.html`
 - Prefer small, reviewable PRs
+- Run local quality checks with `make quality`
 
 ## Communication
 

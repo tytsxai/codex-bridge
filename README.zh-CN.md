@@ -51,6 +51,15 @@ python3 -m http.server 8080
 - `SECURITY.md`
 - `.github/ISSUE_TEMPLATE/*`
 - `.github/pull_request_template.md`
+- `scripts/quality-check.sh`
+
+## 本地质量检查
+
+建议在提交 PR 前执行：
+
+```bash
+make quality
+```
 
 ## SEO 关键词
 
@@ -59,7 +68,7 @@ CLI 代理、API 网关管理、OpenAI Proxy、管理后台、静态管理面板
 ## 路线图
 
 - [ ] 补充未压缩源码与 sourcemap
-- [ ] 增加 HTML 检查与链接检查 CI
+- [ ] 在获取 workflow 权限后恢复自动化 CI 检查
 - [ ] 增加截图和详细部署文档
 
 ## 贡献

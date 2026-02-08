@@ -51,6 +51,15 @@ This repository includes baseline community standards:
 - `SECURITY.md`
 - `.github/ISSUE_TEMPLATE/*`
 - `.github/pull_request_template.md`
+- `scripts/quality-check.sh`
+
+## Quality Check
+
+Run the local quality checks before opening a pull request:
+
+```bash
+make quality
+```
 
 ## SEO Keywords
 
@@ -59,7 +68,7 @@ CLI Proxy, API Gateway UI, OpenAI Proxy, Management Console, Static Admin Dashbo
 ## Roadmap
 
 - [ ] Add source map / unminified front-end artifacts
-- [ ] Add CI workflow for HTML linting and link checks
+- [ ] Add automated CI checks after workflow permission is available
 - [ ] Add screenshots and usage docs
 
 ## Contributing
