@@ -30,6 +30,11 @@ What actually happened?
 - Browser:
 - Version/Commit:
 
+## Checklist
+
+- [ ] I searched existing issues
+- [ ] I can reproduce this issue consistently
+
 ## Additional Context
 
 Logs, screenshots, or other details.

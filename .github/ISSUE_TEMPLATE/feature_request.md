@@ -21,3 +21,8 @@ Any alternatives you considered.
 ## Additional Context
 
 Links, references, or mockups.
+
+## Checklist
+
+- [ ] I searched existing issues
+- [ ] This request aligns with project scope
